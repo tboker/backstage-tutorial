@@ -31,8 +31,9 @@
 ### 5. Free Tutorials & Articles
 - **Backstage Tutorial by Roadie**: [https://roadie.io/backstage/docs/getting-started/](https://roadie.io/backstage/docs/getting-started/)
 - **Backstage Plugin Development Guide**: [https://roadie.io/backstage/docs/plugins/create/](https://roadie.io/backstage/docs/plugins/create/)
-- **YouTube**: [Backstage Community](https://www.youtube.com/c/BackstageCommunity)
-
+- **YouTube**:
+  - [Backstage Community](https://www.youtube.com/c/BackstageCommunity)
+  - [Improving Developer Experience with Backstage - linux foundation](https://www.youtube.com/watch?v=z2u63IZkh9U)
 ## Red Hat Developer Hub (RHDH)
 
 ### 1. Local Testing Setup
