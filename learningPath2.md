@@ -1,5 +1,5 @@
 
-# Comprehensive Learning Path: Backstage & Red Hat Developer Hub (RHDH)
+# Learning Path: Backstage & Red Hat Developer Hub (RHDH)
 
 ## Backstage Developer Portal
 
