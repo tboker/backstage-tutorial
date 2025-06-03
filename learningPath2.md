@@ -31,7 +31,7 @@
 ### 5. Free Tutorials & Articles
 - **Backstage Tutorial by Roadie**: [https://roadie.io/backstage/docs/getting-started/](https://roadie.io/backstage/docs/getting-started/)
 - **Backstage Plugin Development Guide**: [https://roadie.io/backstage/docs/plugins/create/](https://roadie.io/backstage/docs/plugins/create/)
-- **YouTube: Backstage Playlist by The Linux Foundation**: [https://www.youtube.com/playlist?list=PLbzoR-pLrL6pRzZ9w6zv2e3ZKjWcGzYpR](https://www.youtube.com/playlist?list=PLbzoR-pLrL6pRzZ9w6zv2e3ZKjWcGzYpR)
+- **YouTube**: [Backstage Community](https://www.youtube.com/c/BackstageCommunity)
 
 ## Red Hat Developer Hub (RHDH)
 
